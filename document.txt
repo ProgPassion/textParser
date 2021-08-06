@@ -1,0 +1,44 @@
+                                                                                                    Booking Confirmation
+Booking number:      1485770
+Order source:        Tez-tour
+Passenger details:
+
+Name                 Phone number          Language                         People
+KOVAL MYKOLA         +380675590173         RUS                              3
+
+
+
+Transfer information:
+
+Pick-up              Pick-up time          Drop-off                         Duration            Vehicle type
+                                           Italy,
+Italy,
+                      15 August 2021       Milan,                                               Premium Minibus
+Linate Airport Milan,                                                       10 min
+                      19:45                Four Seasons Hotel Milano 5*.                        6 pax 4 bags
+Flight №: AF1312
+                                           Via Gesu 6/8, Milan
+
+
+Additional services
+
+
+Name for a table: KOVAL MYKOLA
+
+
+Meeting point
+
+Meeting point is at the exit of baggage claim.
+
+
+
+
+Payment information:
+
+Your revenue: 44 EUR
+Cash from client: 0 EUR
+Payment from KiwiTaxi: +44 EUR
+
+Get 0 EUR from the customer in cash and then KiwiTaxi will compensate you 44 EUR. After the transfer your balance will be corrected for
++44 EUR
+
