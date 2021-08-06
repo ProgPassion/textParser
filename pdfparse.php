@@ -167,24 +167,12 @@
 	foreach ($tmp_array as $key => $value) {
 		echo $key . ":" . removeWhiteSpace($value) . "\n";
 	}
-	//echo removeWhiteSpace($bookDetailsValuePair["Passenger details"]["Name"]) . "\n";
-	//echo removeWhiteSpace($bookDetailsValuePair["Passenger details"]["Phone number"]) . "\n";
-	//echo removeWhiteSpace($bookDetailsValuePair["Passenger details"]["Language"]) . "\n";
-	//echo removeWhiteSpace($bookDetailsValuePair["Passenger details"]["People"]) . "\n";
-
+	
 
 	$tmp_array = $bookDetailsValuePair["Transfer information"];
 	foreach ($tmp_array as $key => $value) {
 		echo $key . ":" . removeWhiteSpace($value) . "\n";
 	}
-
-	/*echo removeWhiteSpace($bookDetailsValuePair["Transfer information"]["Pick-up"]) . "\n";
-	echo removeWhiteSpace($bookDetailsValuePair["Transfer information"]["Pick-up time"]) . "\n";
-	echo removeWhiteSpace($bookDetailsValuePair["Transfer information"]["Drop-off"]) . "\n";
-	echo removeWhiteSpace($bookDetailsValuePair["Transfer information"]["Vehicle type"]) . "\n";
-	if(isset($bookDetailsValuePair["Transfer information"]["Flight Nr"])) {
-		echo removeWhiteSpace($bookDetailsValuePair["Transfer information"]["Flight Nr"]) . "\n";
-	}*/
 
 	if(isset($bookDetailsValuePair["Additional services"])) {
 		$tmp_array = $bookDetailsValuePair["Additional services"][0];
